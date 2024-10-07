@@ -161,3 +161,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 .python-version
+logs/
+airflow.db
+airflow-webserver.pid
+airflow.cfg
+webserver_config.py
